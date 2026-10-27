@@ -16,3 +16,7 @@ The gremlin encounter now has three individually designed SVG characters with sh
 
 ## Production before App Store
 This is not yet an App Store submission. Wrap with Capacitor, build/sign through a Mac or cloud macOS runner, implement StoreKit $4.99 purchase and restore, secure parent gate, privacy policy, support URL, accessibility checks and child-privacy review. Keep marketing clear that scans are simulated and never detect germs.
+
+
+## iPhone Home Screen icon
+The `apple-touch-icon.png` file is included for iOS Safari. Upload it with `index.html`, `manifest.json`, and `icon.svg`. On iPhone, remove the old Home Screen shortcut and add it again from Safari Share → Add to Home Screen to refresh its saved icon.
